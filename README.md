@@ -58,3 +58,4 @@ Simply open the project folder and run the Main.java file.
 
 ## Future updates
 - May add an AI player and an optional level of difficulty
+- UML Class and Sequence Diagram
